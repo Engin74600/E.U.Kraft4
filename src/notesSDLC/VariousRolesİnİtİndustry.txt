@@ -1,0 +1,21 @@
+>>>>>>>>Verious Roles in IT Industry----------
+        Bilişim Dünyasındaki Roller
+
+                   CEO                       ( Paydaşlar)
+                    |                        Stakeholers
+            Project Manager(PM)                  |
+                    |                    -----------------
+             Product Owner(PO)           |               |
+                    |              Customer/Müşteri İnvestors/Yatırımcılar
+    -------------------------------------------------
+    |          |            |         |             |
+ Devops     Desinger    Developers QA/TESTER Busines Analayst
+
+>>>Scrum
+Ekiplerin kendi kendini organize etmek ve ortak hedef doğrultusunda çalışmak
+için kullandıkları bir yöntem çerçevesidir.
+
+>>>Product Ower
+Scrum Takımı'nda Geliştime Takımı'nın hangi işleri yapacağını belirleyen kişidir.
+"İş Degeri"ne göre takımın yapacağı işlerin sıralı bir listesini içeren
+"Product Backlog"un yöneticisidir.

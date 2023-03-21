@@ -1,0 +1,91 @@
+9. Gün
+
+Operatörler
+
+Aritmetik Operatörler (+-*/%) --done
+Birli Operatörler (+,-,++,--)
+Steno İşleci ( =, +=,-=,*=,/=,%=)
+İlişkisel Operatörler (>,<,>=,<=,==,!=)
+
+    Tarayıcı
+    // Scanner.next() ilk boşluk bosluga kadar olan degerleri alir
+    // Scanner.nextLine() ilk entere kadar olan degferleri aliyor
+
+  Birli Operatörler:
+        	++: değeri 1 artırın.
+        	-- : değeri 1 azaltır.
+
+        	Gönderi ve Öncesi:
+        		Pre : değeri hemen değiştirir
+        				++ bir
+        				-- A
+
+        		post: ikinci adımdaki değeri değiştirir.
+        				bir ++
+        				A --
+
+        Atamalar işleci Steno işleci
+            x=x+y x+=y
+            x=xy x-=y
+            x=x*yx*=y
+            x=x/2 x/=y
+            x=x%yx%=y
+            x=yx=y
+
+        int x = 900;
+            x+=100; // x = x + 100;
+        	x = 1000
+
+        Dizi dizini = "Java";
+            str += "Programlama"; // str = str +"Programlama"
+
+
+        String str1 = "Seviyorum";
+            str1+="Java"; // str1 = str1 + "Java";
+
+
+        int y = 1000;
+            y = y - 100;
+            y-=100;
+
+        int z = 2
+            z = z*2;
+            z *= 2;
+
+
+        Operatörler:
+        	+, -, *, /, %
+        	++, --
+        	=, +=, -=
+        	>, <, >=, <=, ==, !=
+
+
+
+    // ODEVLER Mutlaka yapilsin arkadaslar, iki tanecik sadece konsol çiktilari çalisma-odası-1 atilsin.
+   GÖREVLER:
+   1. /*
+      FlightTicket adlı bir sınıf oluşturun ve aşağıdakileri bildirin
+      değişkenler:
+              1. gelen
+              2. için
+              3. bilet fiyatı
+          biletin tüm bilgilerini görüntülemek için birleştirme kullanın
+
+              eski:
+                  Ankara'dan İstanbul'a 599 TL
+       */
+
+   2. /*
+      1. Telefon Numarası adlı bir sınıf oluşturun ve aşağıdaki değişkenleri bildirin:
+      ülkeKodu, alanKodu, yerelSayı
+      Kullanıcıdan her bir değeri girmesini isteyin.
+      Tarayıcı sınıfını kullanın ve bunları birer birer alın
+      telefon numarasını şu şekilde görüntülemek için dize birleştirme kullanın:
+              eski:
+                          ülkeKodu = 90
+                          alanKodu = 532
+                          yerelSayı = 1234500
+
+                      çıktı:
+                              Telefon numaranız +(90)532-1234500
+       */

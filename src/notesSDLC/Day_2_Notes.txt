@@ -1,0 +1,3 @@
+teasterın 2 bariz görevi var
+1) kodu hatadan ayıklama /bugg Free hale getirmek
+2) missing kayıp özellikleri

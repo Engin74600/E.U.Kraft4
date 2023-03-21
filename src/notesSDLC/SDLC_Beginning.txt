@@ -1,0 +1,44 @@
+Software Development Life Cycle
+Yazılım Geliştime Yaşam Döngüsü
+
+
+---------Ders Kapsamı--------
+1) SDLC KAvramsal Çerçevesi
+2) Proje Yönetim Metodolojisi
+3) Waterfall/Şelale ve Agile/Çevik Yöntem Metotları
+4) Test ve test türleri,
+5) İnyerview/Mülakatlara Hazırlık
+6) Monck İnterview Kurgusal Mulakat Pratikleri
+7) Linkedin ve Cv Hazırlama
+
+>>>>Software / Yazılım :
+    Var olan BİR POBLEMİ çözmek amacıyla
+bigisayar dili kıllanarak oluşturulmuş
+anlamlı anlatımlar bütünüdür.
+
+UNUTMAYALIM : Her Yazılım bir problem çözümüdür.
+
+>>>>Software Test/Yazılım Nedir?--------
+    Yazılım geliştirme yaşam döngüsünün başlangıcında
+belirlenen GEREKSİNİMLERİN karşılanma derecesini
+kontrol eden aktivitiler bütünüdür.
+    Software yazılımın kalitesini değerlendirmenin ve
+kullanım sırasında oluşabilecek yazılım hatasu riskinin
+azaltmanın bir yoludur.
+--Dinamik Test : Test edilen birimin veya sistemin çalıştırılarak yapılır.
+--Statik Test : Test edilen birimin veya sistemin çalıştırılması gerektirmez.
+  Dolayısıyla softwear GEREKSİNİMLER,kullanıcı hikayeleri ve kaynak kod
+gibi ürünlerin gözden geçirilmesini de içerir.
+
+
+>>>>Software Tester Kimdir?----------
+    Bir yazılımdan/uygulamadan beklenenleri olumsuz etkileyecek
+olanları tespit etmek için test yapan kişiye denir.
+    Yazılım Test Uzmanı/Mühendisi bir yazılım projesinin başındaki
+süreçten itibaren, projenin İŞ GEREKSİNİMLERİne uygun olarak
+yazılıp yazılmadığını test eden kişiye verilen unvandır.
+(Gerçekleri acı da olsa ortaya çıkaran kahraman.)
+
+
+
+
