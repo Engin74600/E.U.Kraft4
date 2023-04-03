@@ -1,0 +1,146 @@
+-------------JAVA--------------
+
+>>>JVM:
+1* Java Virtual Machine (Sanal)
+2* Bir kere yaz her yerde çalıştır
+3* Platform bağımsızlığı sağlar
+
+>>>JRE: (JVM+Libraries)
+1* Java Runtime Environment (Fiziksel)
+2* JVMi kapsar
+3* Gerekli kütüphane ve kaynakları sağlar.
+
+>>>JDK: (JVM+JRE+ YORUMLAYICI+DERLEYİCİ)
+1* Java Development Kit (Fiziksel)
+2*Yazılım Geliştirir.
+3* Yorumlayıcı derleyici görev görür.
+
+>>>VARIABLES
+1* Data değerlerini tutan konteynır.
+2* Kullanmadan önce declare edilmeli
+
+>>>DATA TÜRLERİ
+1.Primative Types
+2. Non-Primitive Types
+
+>>1.Primative Types
+1* Sınırlı alanları var (Range).
+2* Geçici hafızada tutulur.
+3* Obje değildirler. Hazır methodları yok.
+
+>>2. Non-Primitive Types (String- Array- Class- Interface)
+1* Boyutları belirsiz (Range).
+2* Heap hafızada tutulur.
+3* Objedirler. Hazır methodları var.
+                                       Data Types İn Jva
+                                               |
+                                               |
+           __________________________________________________________
+           |                                                        |
+           |                                                        |
+     Primitive Data Types                               Non-primitive Data Types
+                                                        or Reference Data Types
+     * Boolean  : 1) boolean                            *Array
+     * Character: 2) char                               *class
+     * Integer  : 3) byte 4) short 5) int 6)long        *interface
+     * Float    : 7) float 8) double                    *String
+                                                        *Enum
+
+
+ >>>TYPE CASTİNG (Dönüştürme-Converting)
+ >>Widening Casting (Casting Up) (automatically)
+ 1* Küçükten büyüğe dönüştürmedir.
+ 2* (Implicitly) kapalı olarak otomatik arka planda yapılır.
+ 3* Veri kaybı yoktur.
+ byte -> short -> char -> int -> long -> float -> double
+
+ >>Narrowing Casting (Casting Down) (manually) – This involves converting a larger data type to a smaller size type.
+ 1* Büyükten küçüğe dönüştürmedir.
+ 2* (Explicitly) açık olarak manuelly gerçekleştirilir.
+ 3* Veri kaybı olur.
+ double -> float -> long -> int -> char -> short -> byte
+
+ ------------------SDLC-------------------
+ Various Roles in IT Industry/
+ Bilisim Dunyasinda Cesitli Roller
+
+    Stake Holers               CEO
+  *Customer / Müşteri           |
+  *İnvestors /Yatırımcı  Project Manager (PM)
+                                |
+                         Project Owner (PO)
+                                |
+       __________________________________________________
+       |         |           |             |            |
+    Devops    Designer   Developers   QA / Tester    Busines
+
+
+
+
+
+ SOFTWARE APPLICATION TYPES/
+ SOFTWARE UYGULAMA TURLERI:
+
+ 1*Web Tabanli Uygulamalari:
+ 2*Desktop/Masaustu Uygulamalari:
+ 3*Mobil Uygulamalari:
+ 4*Çapraz - Platform uygulamaları:
+
+ >>>SOFTWARE DEVELOPMENT LIFE CYCLE
+ 1*REQUIREMENT GATHERING
+ 2*DESIGNING
+ 3*DEVELOPING
+ 4*TESTING
+ 5*PRODUCTION
+ 6*MAINTAINING
+
+ 1)REQUIREMENT GATHERING (Gereksinimlerin Toplanmasi Sureci)
+ A*Requirement Engineering (Gereksinim Mühendisliği)
+ -Paydaslardan Gereksinimlerin Toplanması
+ B*System Requirements Specification, SRS
+ -'Sistem Gereksinimleri Belirtimi'belgesini geliştirmek ve sürdürme
+ C*Gereksinimlerin Herkes Tarafindan Anlasilabilir Oldugunu Onaylamak
+
+ >>Greeksinimlerin Kaynakları
+ *Partners/Ortaklar
+ *Domain Experts/ Etkin Uzmanlar
+ *Industry Analysts/ Andüstri Analizcileir
+ *End-Users/ Kullanıcılar
+
+
+ 4)TESTING
+ 1) VERIFICATION/ DOGRULAMA
+ *Are you building it right? (Ürünü doğru üretiyor musun?)
+ *Statik Test
+
+ 2) VALİDATİON  / GEÇERLEME
+ *Are you building the right thing?(Doğru ürünü mü üretiyorsun?)
+ *Manuel Teat & Bilgisayar tabanlı Test
+
+ Verification(Doğrulama) ve Validation(Geçerlilik) Farkları
+ --Doğrulama ürünü belirtilen koşullara göre doğru geliştiriyor muyuz’a bakıyoruz?
+ Geçerlemede ise doğru ürünü geliştirdik mi?
+ --Doğrulama genel olarak planlar, gereksinimler, tasarım, kod ve test adımlarını değerlendirilirken,
+ geçerlemede ise yazılımın kendisi değerlendirilir
+
+ 3)ASSERTION   / KARSILASTIRMA
+ *Dinamik Test
+ Beklenen sonuç ile gerçekleşen sonucun karşılaştırılmasıdır .(Expected-Actual)
+
+ assertEquals
+ assertTrue
+ assertFalse
+ assertNull
+ assertNotNull
+ assertSame
+ assertNotSame
+ assertArrayEquals
+
+ 1)Test Senaryolarini Yazma
+ 2)Test Senaryolarini Calistirma
+ 3)Hata Tespit Etme
+ 4)Belirlenen Hatayi Tekrar Test Etme
+ 5)Test Senaryolarini Otomatiklestirme
+ 6)Otomatiklestirilen Test Senaryolarini Calistirma
+ 7)Yazilimin Musteri Baklentilerini Karsilayip Karsilamadigini Dogrulama.
+
