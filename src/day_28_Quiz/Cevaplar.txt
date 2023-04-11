@@ -1,0 +1,12 @@
+CEVAPLAR
+1) D ERROR
+2) B -1
+3) A) 16
+4) F)
+5) A)
+6) C)
+7) D)
+8) eğer ...(String s[]) çalışıyorsa, sadece c = 0 yazmalı
+9) D)
+10) B)
+

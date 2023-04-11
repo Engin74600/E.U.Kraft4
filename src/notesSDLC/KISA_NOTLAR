@@ -1,0 +1,135 @@
+SDLC İÇİN KEYWORDS
+SDLC: Yazılım Yaşam Döngüsü.
+Yazılım Testi: Yazılım geliştirme yaşam Döngüsünün başlangıcında gereksinimlerin karşılanma derecesini kontrol eder.
+SoftWare uygulama testleri:
+1.	WebTabanliUygulamalari:
+2.	Desktop/MasaustuUygulamalari:
+3.	MobilUygulamalari:
+4.	Çapraz-Platformuygulamaları:
+Scrum,yönetim çerçervesidir.
+Product Owner, geliştirme takımının hangi işleri yapacağına karar veren ve backlog listesini hazırlayan kişidir.
+SOFTWARE DEVELOPMENT LIFE CYCLE AŞAMALARI;
+1.RequirementGathering/Gereksinimlerin Toplanmasi:
+Toplanma Sürecinde
+
+	Paydaslardan Gereksinimlerin Toplanmasi:
+	Toplanan Bilgilerin Yazili Hale Getirme:
+	Gereksinimlerin Herkes Tarafindan Anlasilabilir Oldugunu Onaylamak:
+•	Müşteriler
+•	Partners/Ortaklar
+•	Domain Experts /Etkin Uzmanlar
+•	Industry Analysts/Endüstri Analistleri
+•	End-Users/Son kullanıcılar
+
+2. DESİGNİNG:
+3. DEVELOPİNG/COİNG:
+4. TESTİNG:
+•	Verification:Doğrulama
+•	Validation:Geçerlillik
+•	Assertion:Karşılaştırma:
+5.PRODUCTİON:
+6.MAİNTANİNG:
+•	Düzeltici bakım
+•	Uyarlayıcı(Adaptif) bakım:
+•	İyileştirici bakım:
+
+1.RequirementGathering/Gereksinimlerin Toplanmasi:
+Product Owner/Urun Sahibi Tarafindan Yazilan Gereksinim Dokumanlari:
+	Business Requirements (BR)/ Is Gereksenimleri (BR)
+	System Requirement Specification (SRS)/ Sistem Gereksinim Ozellikleri
+	Market Requirements (MR)/Pazar Gereksinimleri
+	Functional Requirements (FR)/Fonksiyonel Gereksinimleri
+	Non-Functional Requirements (NFR)/ Fonksiyonel Olmayan
+Gereksinimler.
+Requirment/ Gereksinim Dokumaninda Olmasi Gereken Özellikler:
+	Specific:		/Özel
+	Measurable:		/Ölçülebilir
+	Attanaible:		/Ulaşılabilir
+	Realistic:		/Gerçekçi
+	Testable:		/Test Edilebilir
+
+1.Adım	Requirment Gathering
+ROL	P.O
+İNPUT	Müşteri
+OUTPUT	Döküman
+
+2.Adım	Design
+ROL	Architecture/Designer
+İNPUT	SRS
+OUTPUT	SDS
+
+3.Adım	Developing/Coding
+ROL	Developer/Yazilimci
+İNPUT	(SRS),SDS
+OUTPUT	Application/Software/
+
+
+4.Adım	Testing
+ROL	Testers/QA Engineers
+İNPUT	System Requirement Specification (SRS
+OUTPUT	Bug FreeApplication/Software/
+
+5.Adım	Production/Deploying
+ROL	Developers/ Testers
+İNPUT	Bug FreeApplication/Software
+OUTPUT	End Users use the App
+
+
+6.Adım	Maintaning
+ROL	Product Owner/Developers/ Testers/
+İNPUT	New Requirement/ Hidden Bug
+
+OUTPUT	New Version of The Application
+
+PROJE YONETIM METODLARI:
+IT firmalari tarafindan kullanilan bircok yönetim modelleri vardir: Waterfall, Agile, Six Sigma…
+Waterfall;
+	Lineer model
+	Geleneksel
+	Bir önceki adıma bağlı(Esnek Değil)
+	Belgelere bağlı
+Agile;
+	Bireyler ve etkileşimler, süreçler ve araçlardan önce gelir.
+	Çalışan yazılım önceliklidir.
+	Müşteri ile iş birliği yapmak kontrat görüşmesinden
+önemlidir.
+	Değişikliklere yanıt vermek bir planı takip etmekten önce gelir
+
+
+Calisma Cercevesi(Framework): Birseyi insa ederken destek veya kilavuz olarak kullanilan gercek veya kavramsal yapiya cerceve(framework)denir.
+SCRUM Cercevsindeki Roller (Scrum Framework Roles):
+	Urun Sahibi (Product Owner)
+	Scrum Ustasi/Yoneticisi (Scrum Master)
+	Takim (Team; developer, tester, designer
+
+SCRUM Cercevsindeki Torenler/Toplantilar;
+	Sprint Bakim Toplantisi(Sprint Grooming) Toplantisi
+	Urun biriktirma listesi(product backlog) gozden geçirilir.
+	Kullanici hikayeleri (user stories) takima aciklanir.
+Kullanici Hikaye(User Story) Puanlamasi Yöntemleri:
+	T-Shirt buyuklugu metodu:  S, M, L, XL
+	Dogrusal Olcek: 1,2,3,4,5,6,7,8,9…
+	Fibonnacci Metodu: 1,2,3,5,8,13,21
+
+	Sprint Planlama(Sprint Planning)Toplantisi:
+	Toplantiya; Scrum Master, Product Owner ve Team katilir.
+	Kapasite planlanır.
+	Hızı belirlenir.
+
+	Geriye Donuk Sprint (Sprint Retrospective/Retro) Toplantisi:
+Toplantida asagidaki konular tartisilir:
+	Neyi iyi yaptik?
+	Neyi kotu yaptik?
+	Bir sonrakinde farkli ne yapabiliriz?
+	Gunluk Scrum/Gunluk Ayakustu (Daily Scrum/Daily:
+	Gunluk sabahlari yapilan ve yaklasik 15 dk suren toplantidir.
+Toplantiya: Gelistirme Takimi + Scrum Master katilirlar
+	Toplantida 3 temel soruya kisa cevap verilir:
+	Dun ne yaptin
+	Bugun ne yapacaksin
+	Calismani engeleyen herhangi bir engel varmi
+	Sprint Demosu/Gozden Gecirilmesi (Sprint demo/review) Toplantisi
+	Toplantiya Scrum Takimi ve Musteri katilir.
+
+
+
