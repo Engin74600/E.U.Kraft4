@@ -1,0 +1,50 @@
+
+
+     Encapsulation:
+
+            Access Modifiers:
+                public:     Always accesible at any where
+                protected:  Always visible within same package. Accesible outside to sub classes only
+                default:    Always visible within same package. Not accesible from outside packages
+                private :   Visible within same class ONLY
+
+
+    OOP: Object Oriented
+           Encapsulation:   Hiding Data by giving private access modifier
+                            use public getter&setter methods to read/write the data
+                            TO HAVE COMPLETE CONTROL OF DATA
+
+           getter:      read Only, public instance method
+                        has a Return Type
+                        Return type is same with the data type of the instance variable
+                        Has no parameter
+
+           setter:      Write Only, public instance method
+                        return type is void
+                        Has parameter
+                        Parameter type is same with the data type of the instance variable
+
+           -------------------------------------------------------------------
+           Kapsülleme:
+
+                        Erişim Değiştiriciler:
+                            public: Her zaman her yerden erişilebilir
+                            korumalı: Her zaman aynı paket içinde görünür. Dışarıdan yalnızca alt sınıflara erişilebilir
+                            varsayılan: Her zaman aynı paket içinde görünür. Dış paketlerden erişilemez
+                            private : YALNIZCA aynı sınıf içinde görünür
+
+
+                OOP: Nesne Yönelimli
+                       Kapsülleme: Özel erişim değiştirici vererek Verileri Gizleme
+                                        verileri okumak/yazmak için genel alıcı ve ayarlayıcı yöntemlerini kullanın
+                                        VERİLERİN TAM KONTROLÜNE SAHİP OLMAK İÇİN
+
+                       alıcı: Salt Okunur, genel örnek yöntemi
+                                    Dönüş Türü var
+                                    Dönüş tipi, örnek değişkenin veri tipiyle aynı
+                                    parametresi yok
+
+                       ayarlayıcı: Yalnızca Yaz, genel örnek yöntemi
+                                    dönüş tipi geçersiz
+                                    parametresi var
+                                    Parametre tipi, örnek değişkenin veri tipi ile aynı
